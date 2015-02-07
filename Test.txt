@@ -1,2 +1,3 @@
 myProj contains a console application.
 Built with Maven. Maven creates the manifest file (described in pom.xml).
+And this line is added from home!
